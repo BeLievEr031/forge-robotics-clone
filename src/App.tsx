@@ -288,8 +288,7 @@ function App() {
                 <div className="text-gray-400">// Contact</div>
                 <div className="mt-2 space-y-1">
                   <div>Eoin Cobbe |CEO|</div>
-                  <div>+1 415 304 2909</div>
-                  <div>eoin@forge-robotics.com</div>
+                  <div>eoin@forge-robotics.tech</div>
                 </div>
               </div>
               <div className="mt-4">
@@ -346,8 +345,8 @@ function App() {
                 <div className="text-gray-400">// Contact</div>
                 <div className="mt-2 space-y-1">
                   <div>Robert Cormican |CTO|</div>
-                  <div>+1 415 304 5011</div>
-                  <div>robert@forge-robotics.com</div>
+                  {/* <div>+1 415 304 5011</div> */}
+                  <div>eoin@forge-robotics.tech</div>
                 </div>
               </div>
               <div className="mt-4">
